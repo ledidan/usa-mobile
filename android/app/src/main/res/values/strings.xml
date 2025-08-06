@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Skipli For Business</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">dk_9d7de1e52d2cb1e9b93ca118944ff439</string>
+    <string name="CodePushServerUrl">https://api.nextpush.center/</string>
+</resources>

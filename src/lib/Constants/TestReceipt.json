@@ -1,0 +1,125 @@
+{
+  "customerName": "Emily Miller",
+  "orderItems": {
+    "IZV3di6YQ": {
+      "itemID": "93be6f5b-5a0c-4223-b767-b3f14644485a",
+      "itemSimpleDescription": {
+        "itemKitchenChitName": "",
+        "itemName": "Salmon Teriyaki",
+        "itemPrice": 17.58
+      },
+      "quantity": 2
+    },
+    "K2yLQO-wg": {
+      "itemID": "2f103faf-73e4-47c7-bd05-ab71ced00a2e",
+      "itemSimpleDescription": {
+        "itemKitchenChitName": "",
+        "itemName": "S6. Steamed Rice Noodle",
+        "itemPrice": 1.94
+      },
+      "quantity": 1
+    },
+    "RKh-FT-DE": {
+      "customerInstruction": "I like my steak medium rare. If possible, please cut the steak into cube pieces for me. Thank you",
+      "itemID": "286eead2-e2c1-45a2-a765-8d6abb4f8c84",
+      "itemSimpleDescription": {
+        "itemKitchenChitName": "",
+        "itemName": "17. Stir Fried Noodle Combo",
+        "itemPrice": 8.99
+      },
+      "modifierGroups": {
+        "1cba3598-9977-4841-89bf-1b1sdfsdfasdf": {
+          "modifiers": {
+            "8c37896e-ad17-4dec-9749-c6234666d69f": {
+              "modifierName": "Shrimp",
+              "modifierPrice": 3.99
+            }
+          }
+        },
+        "a35c738d-cd7e-4c74-9f3b-fb01ca2d8e8f": {
+          "modifiers": {
+            "05c63b52-028b-4584-94ef-7de7f205abba": {
+              "modifierName": "Fried rice",
+              "modifierPrice": 1.98
+            }
+          }
+        },
+        "1cba3598-9927-4841-89bf-1b1a125a53bb": {
+          "modifiers": {
+            "8c322a6e-ad17-4dec-9749-c6160536d69f": {
+              "modifierName": "Pork Belly",
+              "modifierPrice": 3.58
+            }
+          }
+        },
+        "1cba3598-9977-4841-89bf-1b14566a53bb": {
+          "modifiers": {
+            "8c32456e-ad17-4dec-9789-c6164166d69f": {
+              "modifierName": "Beef",
+              "modifierPrice": 1.99
+            }
+          }
+        },
+        "1c45668-9977-4841-89bf-1b1a555a53bb": {
+          "modifiers": {
+            "8c32da6e-ad17-4dec-9749-c6167689969f": {
+              "modifierName": "Brocoli",
+              "modifierPrice": 0.92
+            }
+          }
+        }
+      },
+      "quantity": 3
+    },
+    "dSer4VaRT": {
+      "itemID": "411be139-4773-4225-8931-e123f786c68d",
+      "itemSimpleDescription": {
+        "itemKitchenChitName": "",
+        "itemName": "Udon Teriyaki Combo",
+        "itemPrice": 15.63
+      },
+      "modifierGroups": {
+        "e563be57-d4b5-4ea8-b80a-27d78175b9dd": {
+          "modifiers": {
+            "11f21db7-21c8-45a6-9e0d-67b02c754382": {
+              "modifierName": "Beef",
+              "modifierPrice": 1.99
+            }
+          }
+        },
+        "e563be57-d4b5-4ea8-b80a-27d78175b9ds": {
+          "modifiers": {
+            "11f21db7-21c8-45a6-9e0d-67b02c754382": {
+              "modifierName": "Chicken",
+              "modifierPrice": 1.49
+            }
+          }
+        },
+        "e563be57-d4b5-4ea8-b80a-27d78172b9dd": {
+          "modifiers": {
+            "11f21db7-21c8-45a6-9e0d-67b02c754382": {
+              "modifierName": "Egg",
+              "modifierPrice": 0.99
+            }
+          }
+        },
+        "e563be57-d4b5-4ea8-b80a-27d70175b9dd": {
+          "modifiers": {
+            "11f21db7-21c8-45a6-9e0d-67b02c754382": {
+              "modifierName": "Pate",
+              "modifierPrice": 0.49
+            }
+          }
+        }
+      },
+      "quantity": 1
+    }
+  },
+  "deliveryDetails": {
+    "courier": "Postmates"
+  },
+  "orderDeliveryTypeID": "pickUp",
+  "orderID": "TEST RECEIPT 123",
+  "timeStamp": "2021-09-15T19:21:49.022Z",
+  "shopTimeZone": "America/New_York"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <!-- COLOR FOR FOREGROUND SERVICE NOTIFICATION -->
+    <item  name="blue"  type="color">#008a49 
+    </item>
+    <integer-array  name="androidcolors">
+    <item>@color/blue</item>
+    </integer-array>
+</resources>
